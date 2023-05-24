@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-local",
+  "name": "@4devso/dynamodb-local",
   "version": "1.0.0",
   "engines": {
     "node": ">=4.0"
